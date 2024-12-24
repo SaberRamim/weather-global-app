@@ -22,7 +22,10 @@ Weather Global App is a simple single-page application that allows users to ente
 You can view the live demo of the application at: [ https://github.com/SaberRamim/weather-global-app ] insert-your-live-demo-link-here)  
 
 ## Installation  
-To run this application locally, simply clone the repository and open the `index.html` file in your web browser.  
+To run this application locally, simply clone the repository and open the `index.html` file in your web browser. 
+.
+.
+.
 برنامه آب و هوا جهانی
 توضیحات
 برنامه آب و هوا جهانی یک برنامه ساده و تک صفحه‌ای است که به کاربران اجازه می‌دهد نام یک شهر را وارد کنند و اطلاعات واقعی مربوط به آب و هوا، از جمله دما و وضعیت کنونی آب و هوا را دریافت کنند. این برنامه همچنین پیش‌بینی آب و هوا برای 5 روز آینده را ارائه می‌دهد.
