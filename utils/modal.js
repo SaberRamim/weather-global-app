@@ -13,5 +13,5 @@ const removeModal = () => {
   modal.style.display = "none"; // Set display to none to hide the modal
 };
 
-// Export the functions for use in other modules
+
 export { showModal, removeModal };

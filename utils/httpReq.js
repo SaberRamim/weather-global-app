@@ -1,4 +1,4 @@
-import { showModal, removeModal } from "./modal.js"; // Import modal functions for displaying error messages
+import { showModal, removeModal } from "./modal.js";
 
 const BASE_URL = "https://api.openweathermap.org/data/2.5"; // Base URL for the OpenWeatherMap API
 const API_KEY = "c566e82a494b5c1a44238a45ee656084"; // Your OpenWeatherMap API key
@@ -38,7 +38,7 @@ const getWeatherData = async (type, data) => {
     const response = await fetch(url); // Fetch data from the constructed URL
     const json = await response.json(); // Parse the JSON response
     if (+json.cod === 200) {
-      return json; // Return the JSON data if the response code is 200 (OK)
+      return json;
     } else {
       showModal(json.message); // Show modal with the error message if the response code is not 200
     }
@@ -47,4 +47,4 @@ const getWeatherData = async (type, data) => {
   }
 };
 
-export default getWeatherData; // Export the function for use in other modules
+export default getWeatherData;

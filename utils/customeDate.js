@@ -1,7 +1,7 @@
 // Array of days of the week
 const DAYS = [
   "Sunday",
-  "Monday", // Fixed typo from "Mondey" to "Monday"
+  "Monday", 
   "Tuesday",
   "Wednesday",
   "Thursday",
@@ -15,5 +15,5 @@ const getWeekDay = (date) => {
   return DAYS[new Date(date * 1000).getDay()];
 };
 
-// Export the getWeekDay function for use in other modules
+
 export { getWeekDay };

@@ -95,9 +95,9 @@ const locationhandler = () => {
 
 // Function to initialize the app with default city (Tehran)
 const initHandler = async () => {
-  const currentData = await getWeatherData("current", "tehran"); // Fetch current weather for Tehran
+  const currentData = await getWeatherData("current", "kermanshah"); // Fetch current weather for Tehran
   renderCurrentWeather(currentData); // Render current weather
-  const forecastData = await getWeatherData("forecast", "tehran"); // Fetch forecast data for Tehran
+  const forecastData = await getWeatherData("forecast", "kermanshah"); // Fetch forecast data for Tehran
   renderForecastWeather(forecastData); // Render forecast weather
 };
 
