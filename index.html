@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Link to the CSS file for styling -->
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Saber Ramim | Weather App</title>
+  </head>
+  <body>
+    <!-- Search section for entering the city name -->
+    <div id="search">
+      <img src="./img/location.png" alt="location icon" id="location" />
+      <input type="text" placeholder="Enter City Name" />
+      <button>Search</button>
+    </div>
+
+    <!-- Section for displaying weather information -->
+    <div id="weather"><span id="loader"></span></div>
+
+    <!-- Section for weather forecast -->
+    <div id="forecast"></div>
+
+    <!-- Modal for displaying specific information -->
+    <div id="modal">
+      <div>
+        <div><span id="modal-button">X</span></div>
+        <div><p>test</p></div>
+      </div>
+    </div>
+
+    <!-- Link to the JavaScript file -->
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
