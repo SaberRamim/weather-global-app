@@ -20,11 +20,6 @@ Weather Global App is a simple single-page application that allows users to ente
 
 ## Live Demo  
 You can view the live demo of the application at: [ https://github.com/SaberRamim/weather-global-app ] insert-your-live-demo-link-here)  
-
-## Installation  
-To run this application locally, simply clone the repository and open the `index.html` file in your web browser. 
-.
-.
 .
 برنامه آب و هوا جهانی
 توضیحات
@@ -50,8 +45,10 @@ https://github.com/SaberRamim/weather-global-app
 
 این فایل شامل توضیحات مفید درباره برنامه، امکانات، تکنولوژی‌های استفاده شده، نحوه استفاده، و نصب است. همچنین می‌توانید لینک پیش‌نمایشی از نرم‌افزار خود را در قسمت مشخص شده قرار دهید. اگر بخواهید تغییراتی در متن ایجاد کنید یا اطلاعات بیشتری اضافه کنید، خوشحال می‌شوم کمک کنم!
 
+## Installation  
+To run this application locally, simply clone the repository and open the `index.html` file in your web browser. 
 
-```
+```bash
 git clone https://github.com/SaberRamim/weather-global-app.git  
 cd weather-global-app
 
