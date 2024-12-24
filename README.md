@@ -23,12 +23,6 @@ You can view the live demo of the application at: [ https://github.com/SaberRami
 
 ## Installation  
 To run this application locally, simply clone the repository and open the `index.html` file in your web browser.  
-
-```
-git clone https://github.com/SaberRamim/weather-global-app.git  
-cd weather-global-app
-
-----------------------------------------------------------------------------------------------------------------------------
 برنامه آب و هوا جهانی
 توضیحات
 برنامه آب و هوا جهانی یک برنامه ساده و تک صفحه‌ای است که به کاربران اجازه می‌دهد نام یک شهر را وارد کنند و اطلاعات واقعی مربوط به آب و هوا، از جمله دما و وضعیت کنونی آب و هوا را دریافت کنند. این برنامه همچنین پیش‌بینی آب و هوا برای 5 روز آینده را ارائه می‌دهد.
@@ -50,8 +44,13 @@ https://github.com/SaberRamim/weather-global-app
 نصب
 برای اجرای این برنامه به صورت محلی، کافی است مخزن را کلاون کرده و فایل index.html را در مرورگر وب خود باز کنید.
 
- git clone https://github.com/SaberRamim/weather-global-app.git  
-cd weather-global-app  
 
 این فایل شامل توضیحات مفید درباره برنامه، امکانات، تکنولوژی‌های استفاده شده، نحوه استفاده، و نصب است. همچنین می‌توانید لینک پیش‌نمایشی از نرم‌افزار خود را در قسمت مشخص شده قرار دهید. اگر بخواهید تغییراتی در متن ایجاد کنید یا اطلاعات بیشتری اضافه کنید، خوشحال می‌شوم کمک کنم!
+
+
+```
+git clone https://github.com/SaberRamim/weather-global-app.git  
+cd weather-global-app
+
+----------------------------------------------------------------------------------------------------------------------------
 
