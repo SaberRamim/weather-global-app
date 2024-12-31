@@ -51,5 +51,5 @@ To run this application locally, simply clone the repository and open the `index
 git clone https://github.com/SaberRamim/weather-global-app.git  
 cd weather-global-app
 
-----------------------------------------------------------------------------------------------------------------------------
+
 
