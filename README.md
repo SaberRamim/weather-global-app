@@ -1,7 +1,7 @@
 # Weather Global App  
 
 ## Description  
-Weather Global App is a simple single-page application that allows users to enter a city name and receive real-time weather information, including current temperature and weather conditions. The app also provides a 5-day weather forecast.  
+Weather Global App is a simple single-page application that allows users to enter a city name and receive real-time weather information, including current temperature and weather conditions. The app also provides a 5-day weather forecast. . 
 
 ## Features  
 - Current weather conditions  
