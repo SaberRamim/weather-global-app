@@ -31,6 +31,7 @@ You can view the live demo of the application at: [ https://github.com/SaberRami
 •	HTML
 •	CSS
 •	JavaScript
+.
 نحوه استفاده
 1.	نام شهر را در فیلد ورودی وارد کنید.
 2.	روی دکمه 'گرفتن آب و هوا' کلیک کنید.
